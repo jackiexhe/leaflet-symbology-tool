@@ -139,7 +139,7 @@ var initPattern = function(backColor, foreColor, gridWidth, style) {
 
 
 };
-initPattern('#000000', '#ffffff', 15, 'fill');
+initPattern('#000000', '#ffffff', 15, 'horizontal');
 
 var resetFillPatternPathStyle = function(foreColor, gridWidth, style) {
   fillPatternPath.setStyle(fillPatternPathOptions(foreColor, gridWidth, style));

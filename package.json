@@ -1,0 +1,14 @@
+{
+  "name": "leaflet-symbology-tool",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/xhe585/leaflet-symbology-tool",
+  "author": "ribro <xhe585@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "jquery-color": "^1.0.0",
+    "leaflet": "^1.6.0",
+    "leaflet.pattern": "^0.1.0"
+  }
+}
